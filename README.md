@@ -18,7 +18,7 @@ The ion exchange process entails submerging glass, characterized by a modest con
 
 * **Morteza Zakeri-Nasrabadi** (Ph.D. candidate, School of Computer Engineering, Iran University of Science and Technology)
 email: **m-zakeri[at]live.com**
-* 
+
 ## Announcement:
 **Release date:** The complete version of the tool will be made accessible in this repository ([https://github.com/omid-vop/IDMO.G]()) after the publication approval of our relevant research papers.
 
