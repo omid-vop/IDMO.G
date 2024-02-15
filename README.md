@@ -1,6 +1,10 @@
 # IDMO.G
-Inverse Design and Multi-objective Optimization for Glasses
 ------------------------------------------------------------
+###### Inverse Design and Multi-objective Optimization for Glasses
+
+
+The ion exchange process entails submerging glass, characterized by a modest concentration of alkali oxides (typically 10-20 mol% Li2O and/or Na2O), into a molten salt bath containing larger alkali cations (NaNO3 for glass with Li2O or KNO3 for glass with Na2O) at an approximate temperature of 400°C. 
+
 ![](./img/ion-exchange.gif)
 (All credits belong to [SAXON GLASS](https://saxonglass.com/))
 
