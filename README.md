@@ -23,4 +23,4 @@ email: **m-zakeri[at]live.com**
 **Release date:** The complete version of the tool will be made accessible in this repository ([https://github.com/omid-vop/IDMO.G]()) after the publication approval of our relevant research papers.
 
 ## FQA
-You may ask any question by contacting omid_banapour@metaleng.iust.ac.ir.
+You may ask any question by contacting omid_banapour[at]metaleng.iust.ac.ir.
