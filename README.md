@@ -9,6 +9,10 @@ The ion exchange process entails submerging glass, characterized by a modest con
 (All credits belong to [SAXON GLASS](https://saxonglass.com/))
 
 
+The animation presented below illustrates how the NSGA-II algorithm methodically searches for optimal values of DOL (Depth of layer) and CS (Compressive stress). 
+![](./img/presentation1.gif)
+
+
 ![](./img/graphical_abstract.jpg)
 **[read more on my Webpage](http://webpages.iust.ac.ir/omid_banapour/EF-IE.html)** 
 
