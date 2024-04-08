@@ -8,10 +8,6 @@ The ion exchange process entails submerging glass, characterized by a modest con
 ![](./img/ion-exchange.gif)
 (All credits belong to [SAXON GLASS](https://saxonglass.com/))
 
-
-The animation presented below illustrates how the NSGA-II algorithm methodically searches for optimal values of DOL (Depth of layer) and CS (Compressive stress). 
-![](./img/intro_for_GA.gif)
-
 In this study, we investigate the complex world of ion-exchangeable glasses, focusing on their design and the challenges that come with it. 
 The main difficulty lies in trying to achieve two goals at the same time: increasing the depth of layer (DOL) and the compressive stress (CS)
 within the glass. These two factors are crucial for making the glass strong and effective. However, trying to improve the DOL by either extending
@@ -19,6 +15,11 @@ the ion exchange process time or raising its temperature can unintentionally lea
 glass surface. This occurs because the process intended to deepen the DOL can also cause the glass to undergo stress relaxation
 . Our research aims to carefully explore this delicate balance, with the goal of finding ways to optimize both the DOL and CS, contributing valuable knowledge to the field of materials science. 
 ![](./img/graphical_abstract_v3.tif)
+
+The animation presented below illustrates how the NSGA-II algorithm methodically searches for optimal values of DOL (Depth of layer) and CS (Compressive stress). 
+![](./img/intro_for_GA.gif)
+
+
 
 ![](./img/graphical_abstract.jpg)
 **[read more on my Webpage](http://webpages.iust.ac.ir/omid_banapour/EF-IE.html)** 
