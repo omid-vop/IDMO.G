@@ -12,8 +12,8 @@ In this study, we investigate the complex world of ion-exchangeable glasses, foc
 The main difficulty lies in trying to achieve two goals at the same time: increasing the depth of layer (DOL) and the compressive stress (CS)
 within the glass. These two factors are crucial for making the glass strong and effective. However, trying to improve the DOL by either extending
 the ion exchange process time or raising its temperature can unintentionally lead to stress relaxation, reducing the compressive stress (CS) on the
-glass surface. This occurs because the process intended to deepen the DOL can also cause the glass to undergo stress relaxation
-. Our research aims to carefully explore this delicate balance, with the goal of finding ways to optimize both the DOL and CS, contributing valuable knowledge to the field of materials science. 
+glass surface. This occurs because the process intended to deepen the DOL can also cause the glass to undergo stress relaxation.
+Our research aims to carefully explore this delicate balance, with the goal of finding ways to optimize both the DOL and CS, contributing valuable knowledge to the field of materials science. 
 ![](./img/graphical_abstract_v3.jpg)
 
 The animation presented below illustrates how the NSGA-II algorithm methodically searches for optimal values of DOL (Depth of layer) and CS (Compressive stress). 
