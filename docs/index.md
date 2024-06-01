@@ -23,8 +23,9 @@ The animation presented below illustrates how the NSGA-II algorithm methodically
 ![intro_for_GA](./img/intro_for_GA.gif)
 
 
+## Graphical Abstract 
 
-![graphical_abstract](./img/graphical_abstract.jpg)
+![graphical_abstract](./img/graphical_abstract_v3.jpg)
 
 
 ----
