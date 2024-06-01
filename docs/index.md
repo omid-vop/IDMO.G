@@ -2,10 +2,9 @@
 
 ## Inverse Design and Multi-objective Optimization for Glasses
 
-
 The ion exchange process entails submerging glass, characterized by a modest concentration of alkali oxides (typically 10-20 mol% Li2O and/or Na2O), into a molten salt bath containing larger alkali cations (NaNO3 for glass with Li2O or KNO3 for glass with Na2O) at an approximate temperature of 400°C. 
 
-![](../img/ion-exchange.gif)
+![ion-exchange](./img/ion-exchange.gif)
 (All credits belong to [SAXON GLASS](https://saxonglass.com/))
 
 In this study, we investigate the complex world of ion-exchangeable glasses, focusing on their design and the challenges that come with it. 
@@ -15,17 +14,17 @@ the ion exchange process time or raising its temperature can unintentionally lea
 glass surface. This occurs because the process intended to deepen the DOL can also cause the glass to undergo stress relaxation.
 Our research aims to carefully explore this delicate balance, with the goal of finding ways to optimize both the DOL and CS. 
 
-![](../img/graphical_abstract_v3.jpg)
+![graphical_abstract_v3](./img/graphical_abstract_v3.jpg)
 
 ---
 
 The animation presented below illustrates how the NSGA-II algorithm methodically searches for optimal values of DOL (Depth of layer) and CS (Compressive stress). 
 
-![](../img/intro_for_GA.gif)
+![intro_for_GA](./img/intro_for_GA.gif)
 
 
 
-![](../img/graphical_abstract.jpg)
+![graphical_abstract](./img/graphical_abstract.jpg)
 
 
 ----
