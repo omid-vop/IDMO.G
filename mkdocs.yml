@@ -1,0 +1,35 @@
+site_name: IDMO.G Docs (v0.1.0dev)
+site_url: https://m-zakeri.github.io/IDMO.G
+repo_url: https://github.com/omid-vop/IDMO.G
+site_description: Inverse Design and Multi-objective Optimization for Glasses
+site_author: Morteza Zakeri
+copyright: © 2024 IDMO.G project - IUST Glass laboratory
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Light mode
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          setup_commands:
+            - import sys
+            - import os
+          selection:
+            members: True
+
+nav:
+    - Home: index.md
+    - Dataset: dataset.md
+    - FAQ : faq.md
+    - Issue tracker: 'https://github.com/omid-vop/IDMO.G/issues'
