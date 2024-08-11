@@ -34,7 +34,9 @@ The animation presented below illustrates how the NSGA-II algorithm methodically
 * **Morteza Zakeri-Nasrabadi** (Ph.D. candidate, School of Computer Engineering, Iran University of Science and Technology)
 email: **m-zakeri[at]live.com**
 ## Publications
-[1] Banopur Ghaffari, O. , Eftekhari Yekta, B., & Zakeri-Nasrabadi, M. (2024). Estimating “depth of layer” (DOL) in ion-exchanged glasses using explainable machine learning. Materialia, 102027. [https://doi.org/10.1016/J.MTLA.2024.102027](https://doi.org/10.1016/J.MTLA.2024.102027)
+[1] Banapour Ghaffari, O., B. Eftekhari Yekta, and M. Zakeri-Nasrabadi, Estimating “depth of layer” (DOL) in ion-exchanged glasses using explainable machine learning. Materialia, 2024. 33: p. 102027.[https://doi.org/10.1016/J.MTLA.2024.102027](https://doi.org/10.1016/J.MTLA.2024.102027)
+						
+[2] Banapour Ghaffari, O., B. Eftekhari Yekta, and M. Zakeri-Nasrabadi, Designing High-Performance Ion-Exchangeable Glasses with Multi-Objective Optimization and Machine Learning. Ceramics International, 2024.[https://doi.org/10.1016/j.ceramint.2024.08.141](https://doi.org/10.1016/j.ceramint.2024.08.141)
 
 ## Announcement:
 **Release date:** The complete version of the tool will be made accessible in this repository ([https://github.com/omid-vop/IDMO.G]()) after the publication approval of our relevant research papers.
